@@ -14,6 +14,7 @@ require 'opensocial-wap/platform/gree'
 require 'opensocial-wap/platform/mobage'
 require 'opensocial-wap/platform/dmm'
 require 'opensocial-wap/platform/dmm_adult'
+require 'opensocial-wap/platform/nijiyome'
 
 module OpensocialWap
   class Railtie < Rails::Railtie
